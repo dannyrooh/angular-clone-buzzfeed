@@ -1,0 +1,6 @@
+.home__container, .app__quiz{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
